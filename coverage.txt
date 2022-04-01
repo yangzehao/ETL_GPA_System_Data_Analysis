@@ -1,0 +1,31 @@
+[CodePro v6.1 report, generated Sun Oct 14 20:10:27 CST 2012]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+86%  (100/116)!	39%  (733/1871)!	21%  (19024/88885)!	23%  (4094.4/17574)!	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	12
+total classes:	116
+total methods:	1871
+total executable files:	96
+total executable lines:	17574
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+0%   (0/1)!	0%   (0/14)!	0%   (0/143)!	0%   (0/36)!	jxl
+33%  (1/3)!	9%   (2/23)!	7%   (25/338)!	8%   (9.2/114)!	org.eclipse.swt
+100% (1/1)	20%  (4/20)!	10%  (60/622)!	11%  (15.9/149)!	com.swtdesigner
+91%  (10/11)!	29%  (51/177)!	10%  (2364/22738)!	13%  (496/3901)!	org.eclipse.swt.graphics
+95%  (19/20)!	39%  (489/1245)!	24%  (13175/55444)!	25%  (2876.8/11532)!	org.eclipse.swt.widgets
+74%  (32/43)!	44%  (117/265)!	30%  (1456/4801)!	36%  (317.8/889)!	org.eclipse.swt.internal.win32
+100% (7/7)	58%  (29/50)!	31%  (785/2543)!	36%  (173.2/482)!	org.eclipse.swt.internal
+100% (5/5)	33%  (5/15)!	36%  (91/252)!	42%  (26/62)!	org.eclipse.swt.events
+100% (5/5)	35%  (6/17)!	39%  (273/704)!	29%  (40/140)!	lastcomprehensive
+100% (6/6)	47%  (7/15)!	50%  (319/643)!	39%  (46/118)!	dividecomprehensive
+100% (11/11)	76%  (19/25)	72%  (464/642)!	61%  (89/146)!	welcome
+100% (3/3)	80%  (4/5)	80%  (12/15)	90%  (4.5/5)	org.eclipse.swt.internal.gdip
+-------------------------------------------------------------------------------
