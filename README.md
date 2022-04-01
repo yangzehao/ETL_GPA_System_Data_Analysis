@@ -7,12 +7,16 @@
 * Handle the calculation of hundred thousands of data and the whole ETL process within half an hour;
 * The efficiency increased over 3,000 times, and it saved $5,000 annually for my university
 
-The source codes are put into src folder, which contains several packages to deal with specific problems. Each package contains several modules.This software is written by java.
+The source codes are put into **src folder**, which contains several packages to deal with specific problems. Each package contains several modules.This software is written by java.
 
 
 
 ## The procedure for the grade analytics software is presented below:
 <img width="485" alt="Picture1" src="https://user-images.githubusercontent.com/12593292/161325935-7f428fc2-76ad-456d-b8c8-caeb67c3309d.png">
+
+Thanks
+
+John
 
 
 
